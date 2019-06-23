@@ -1,0 +1,30 @@
+samsungS10Plus = {
+	"id": "001",
+	"name": "Samsung Galaxy S10+",
+	"yearRelease": 2019,
+	"price": 18000000
+}
+samsungNote8 = {
+	"id": "002",
+	"name": "Samsung Note 8",
+	"yearRelease": 2018,
+	"price": 15000000
+}
+iphonex = {
+	"id": "003",
+	"name": "Iphone X",
+	"yearRelease": 2017,
+	"price": 25000000
+}
+Xiaomi9 = {
+	"id": "004",
+	"name": "Xiaomi 9",
+	"yearRelease": 2019,
+	"price": 8500000
+}
+XiaomiRedmiNote6 = {
+	"id": "005",
+	"name": "Xiami Redmi Note 6",
+	"yearRelease": 2018,
+	"price": 5000000
+}

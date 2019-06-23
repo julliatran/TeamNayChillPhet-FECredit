@@ -1,0 +1,4 @@
+.DS_Store
+FEData_Hackathon
+web/AngelHackServer/node_modules/*
+web/AngelHackWeb/node_modules/*

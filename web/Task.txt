@@ -1,0 +1,2 @@
+1. Implement the map display. => Tao 1 list marker of suggestion saler.
+2. Implement chatbot auto send followed by user.
